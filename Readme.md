@@ -1,4 +1,4 @@
-# rodo Assertions for Chai
+# rodo assertions for Chai
 
 > Chai assertions for [rodo](https://www.github.com/nescalante/rodo)
 
@@ -8,7 +8,18 @@
 npm install rodo-chai
 ```
 
+## Setup
+
+```js
+const chai = require('chai')
+const rodoChai = require('rodo-chai')
+
+chai.use(rodoChai)
+```
+
 ## Usage
+
+In your test suite:
 
 ```js
 const mock = rodo(urlObject.port)
