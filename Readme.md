@@ -1,4 +1,4 @@
-# rodo assertions for Chai
+# rodo assertions for Chai [![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/rodo-chai.svg)](https://greenkeeper.io/)
 
 > Chai assertions for [rodo](https://www.github.com/nescalante/rodo)
 
