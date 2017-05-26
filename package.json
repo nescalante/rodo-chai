@@ -1,6 +1,6 @@
 {
   "name": "rodo-chai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Chai assertions for rodo",
   "main": "src/rodo-chai.js",
   "scripts": {
